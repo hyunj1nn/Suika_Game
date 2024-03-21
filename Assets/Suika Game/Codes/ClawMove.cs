@@ -9,7 +9,7 @@ public class ClawMove : MonoBehaviour
 
     void Start()
     {
-        mainCamera = Camera.main; // 메인 카메라의 참조를 가져옵니다.
+        mainCamera = Camera.main; // 메인 카메라의 참조
     }
 
     void Update()
